@@ -1,4 +1,4 @@
-import {fizzbuzz} from '../index'
+import {fizzbuzz} from '../fizzBuzz'
 
 it("shouldReturnFizzIfTheNumberIsDividableBy3", () => {
    const a = fizzbuzz(3);
