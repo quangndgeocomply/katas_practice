@@ -1,4 +1,4 @@
-import { InputContext } from "./input-context";
+import { InputContext } from "./inputContext";
 
 export class StringCalculator {
   private static readonly DEFAULT_DELIMITER = ',';
